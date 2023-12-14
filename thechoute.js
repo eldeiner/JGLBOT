@@ -22,7 +22,7 @@ const {
   processTime
   
   } = require ("@adiwajshing/baileys")
-// ☷☷ 𝕭𝖆𝖇𝖞 - - 𝕿𝖍𝖊𝖈𝖍𝖔𝖚𝖙𝖊 | Modulos
+// ☷☷ JGL BOT - - Deiner | Modulos
 
 const fs = require('fs');
 const crypto = require("crypto-js");        
