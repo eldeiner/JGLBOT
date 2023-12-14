@@ -1,7 +1,7 @@
-   // - - - - 𝕭𝖆𝖇𝖞𝕭𝖊𝖈𝖍𝖔𝖘𝖔 - - - -\\
+   // - - - - JGL BOT - - - -\\
   // Si modificas recuerda dejar  \\
  //     Los Creditos               \\
-//////////// 𝕿𝖍𝖊 𝕮𝖍𝖔𝖚𝖙𝖊  \\\\\\\\\\\\\
+//////////// Deiner  \\\\\\\\\\\\\
 const { 
   WAConnection,
   MessageType,
