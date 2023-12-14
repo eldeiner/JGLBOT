@@ -21,7 +21,7 @@ const {
   Browsers,
   processTime
   
-  } = require ("@adiwajshing/baileys")
+
 // ☷☷ JGL BOT - - Deiner | Modulos
 
 const fs = require('fs');
