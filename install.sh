@@ -48,8 +48,8 @@ npm i fb-video-downloader
 echo -e '\e[1;32m
 Descarga Completada al 100%
 Creador: Deiner
-Numero: +57 3208351245
-Instagram: eldeiner.c
+Numero: +57 3133765384
+Instagram: dei.xpz7
 
 
 Escribe node thechoute para iniciar el bot
